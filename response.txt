@@ -1,17 +1,15 @@
-Folienfehlerprüfungs-Tabelle
+Folie 4: Auf Basis der Ergebnisse aus den durchgeführten Interviews, der externen Recherche sowie des Ideation Workshops wurden zwei finale Übergabedokumente ausgearbeitet
+Feedback: Der Action Title bleibt eher auf dem Prozess behaftet und ist ziemlich lang. Eine Fokussierung auf die Ergebnisse würde eine weitaus besser Lesbarkeit und Zuspitzung bringen.
+Vorgeschlagenes Action Title: Zwei finale Übergabedokumente erfolgreich erstellt
 
-| Folie | Fehler | Verbesserungsvorschlag |
-| ------ | ------ | ------------------ |
-| 3 | Die Überschrift "Executive Summarybanana" macht keinen Sinn und beinhaltet wahrscheinlich einen Tippfehler. | Korrektur der Überschrift zu "Executive Summary". |
-| 4 | Die Ausgangslage und die Zielsetzung sollten vielleicht durch Punkte getrennt werden für eine bessere Lesbarkeit. | Stellen Sie die Ausgangslage und die Zielsetzung jeweils als separaten Punkt dar. |
-| 4 | Einige der Sätze sind zu lang. Kürzere, klarere Aussagen fördern das Verständnis. | Teilen Sie einige der längeren Sätze in zwei für eine klarere Nachricht. |
-| 4 | Es gibt einige Fälle von Passivsätzen, die überarbeitet werden könnten. | Überarbeiten Sie Passivsätze, um eine aktivere Sprache zu verwenden. |
-| 6 | Unklarer Satz: "Eine Kommunikationsroadmap eines ausgewählten Bildungsangebotes liegt Schalke hilft! vor1" | Klarere Formulierung: "Schalke hilft! hat bereits eine Kommunikationsroadmap für eines der ausgewählten Bildungsangebote." |
-| 7 | Die Phasen der "Implementierungsungsstrategie" scheinen inkonsistent und unklar geformuliert zu sein. | Klare und einheitliche Formulierung der Phasen z.B. Phase 1: Status-Quo- und Anforderungsanalyse; Phase 2: Ideenfindung und Konsolidierung; Phase 3: Implementierungsstrategie. |
-| 9 | Sätze in den Bulletpoints enden manchmal mit und manchmal ohne Punkt. | Vereinheitlichen Sie die endende Interpunktion in den Bulletpoints. |
+Folie 7: Ein ausführlicher Maßnahmenkatalog und eine detaillierte Kommunikationsroadmap wurden durch das zielgerichtete Projektvorgehen angefertigt
+Feedback: Auch hier liegt der Fokus mehr auf dem Prozess als auf den Ergebnissen. Versuchen Sie, die Aussage spezifischer und kürzer zu gestalten.
+Vorgeschlagene Action Title: Erstellung eines Maßnahmenkatalogs und einer Kommunikationsroadmap
 
-Inkonsistenzbeispiele:
+Folie 8: Im Rahmen eines Ideation Workshops wurden grundlegende Bedürfnisse von Kindern und Jugendlichen in Gelsenkirchen identifiziert
+Feedback: Die Aussage widerspricht dem ersten Kriterium, sie ist nicht generell, aber sie könnte fokussierter auf das Ergebnis sein.
+Vorgeschlagene Action Title: Identifizierung der Basissbedürfnisse von Kindern und Jugendlichen 
 
-* Ich habe festgestellt, dass der Textstil der Präsentation nicht immer einheitlich ist. Manchmal werden formelle Ausdrücke verwendet, während an anderen Stellen ein informellerer Ton verwendet wird. Es ist besser, einen konsistenten Ton und Stil zu wählen und diesen während der gesamten Präsentation beizubehalten.
-* Es wurden keine Abkürzungen verwendet, die nicht durch Fußnoten erläutert wurden, was gut ist. Einige Ausdrücke sind jedoch unklar und könnten durch klarere Formulierungen ersetzt werden.
-*Die Verwendung von Zeichensetzung und Großschreibung ist nicht immer konsequent. In einigen Bulletpoints fehlen beispielsweise abschließende Zeichen oder der Satzanfang beginnt nicht mit einem Großbuchstaben. Es ist wichtig, dies zu korrigieren, um Professionalität zu gewährleisten.
+Folie 9: Als Resultat des Ideation Workshops konnten vier aussichtsreiche Maßnahmen entwickelt werden, die eine optimale Grundlage für den Maßnahmenkatalog bilden
+Feedback: Dieser Action Title erfüllt die meisten Kriterien, aber er könnte etwas kürzer und präziser sein.
+Vorgeschlagene Action Title: Entwicklung von vier heraussragenden Maßnahmen für den Maßnahmenkatalog
